@@ -1,0 +1,1 @@
+Nesse repositório se encontra alguns sites que estou fazendo utilizando como base alguns projetos de outros desenvolvedores.
